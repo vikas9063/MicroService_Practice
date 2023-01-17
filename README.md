@@ -8,6 +8,6 @@ Total Services Created:
     # UserService
     # HotelService
     # RatingService
-    # ServiceRegistry (Eurekaa)
+    # ServiceRegistry (Eureka)
     # API Gateway
     
